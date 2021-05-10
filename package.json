@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Atlanstis/plop-use.git",
   "author": "Gypsophila. <futur_@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
 }
