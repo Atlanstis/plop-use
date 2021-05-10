@@ -1,0 +1,8 @@
+{
+  "name": "plop-use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Atlanstis/plop-use.git",
+  "author": "Gypsophila. <futur_@163.com>",
+  "license": "MIT"
+}
